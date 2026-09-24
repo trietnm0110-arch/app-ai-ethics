@@ -1,0 +1,6 @@
+{
+  "name": "EthicsQuest",
+  "description": "An interactive visual novel and decision simulator exploring Academic Integrity, plagiarism, and responsible AI usage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
